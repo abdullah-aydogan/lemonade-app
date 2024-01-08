@@ -21,4 +21,7 @@
     <string name="lemon_empty_glass">Click to start again!</string>
     <string name="squeeze_count">Squeeze count: %1$d, keep squeezing!</string>
     <string name="lemonade">lemonade</string>
+    <string name="info">About the Application</string>
+    <string name="alert_text">Lemonade application example in the \"Android Basics in Kotlin\" training on the \"Android Developers\" website. We collect the lemons from the tree and squeeze them one by one, then our lemonade is ready to drink.</string>
+    <string name="alert_action">OK</string>
 </resources>

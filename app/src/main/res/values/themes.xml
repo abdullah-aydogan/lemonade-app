@@ -13,14 +13,14 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <!-- Base application theme. -->
-    <style name="Theme.Lemonade" parent="Theme.MaterialComponents.DayNight">
+    <style name="Theme.Lemonade" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/yellow_dark</item>
         <item name="colorOnPrimary">@color/black</item>
         <!-- Status bar color. -->
-        <item name="android:statusBarColor">@color/yellow_dark</item>
+        <item name="android:statusBarColor">#FFA000</item>
         <!-- Customize your theme here. -->
         <item name="fontFamily">@font/poppins_500</item>
     </style>

@@ -13,7 +13,7 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Limonata</string>
     <string name="lemon_select">Limon seçmek için tıklayın!</string>
     <string name="lemon_squeeze">Limonu sıkmak için tıklayın!</string>
@@ -21,4 +21,7 @@
     <string name="lemon_empty_glass">Tekrar başlamak için tıklayın!</string>
     <string name="squeeze_count">Sıkma sayısı: %1$d, sıkmaya devam edin!</string>
     <string name="lemonade">limonata</string>
+    <string name="info">Uygulama Hakkında</string>
+    <string name="alert_text" tools:ignore="Typos">\"Android Developers\" internet sitesinde yer alan \"Android Basics in Kotlin\" isimli eğitimdeki limonata uygulaması örneği. Ağaçtan limonları toplayıp limonları tek tek sıkıyoruz, sonra limonatamız içmeye hazır hale geliyor.</string>
+    <string name="alert_action">TAMAM</string>
 </resources>
